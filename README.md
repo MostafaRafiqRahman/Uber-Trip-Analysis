@@ -1,3 +1,2 @@
-dataset folder contains two .csv files
-
-Uber Analysis.pbix file is a power bi file which contains the anlytical report
+Dataset folder contains two .csv files.
+Uber Analysis.pbix file is a Power BI file which contains the anlytical report.
